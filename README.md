@@ -8,7 +8,6 @@ All signal-extraction, spectral, and mid-casting calculations are powered by the
 
 | Component | Version | Purpose |
 |-----------|---------|---------|
-
 | **R** | 4.4.0 | Base language |
 | **RStudio** | 2024.4.0.735 | IDE & workflow |
 | **shiny** | 1.9.1 | Web-style apps built entirely in R |
